@@ -1,0 +1,24 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\bin\Debug\net6.0\Todo.Interfaces.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\bin\Debug\net6.0\Todo.Interfaces.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\bin\Debug\net6.0\Todo.Interfaces.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\refint\Todo.Interfaces.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Interfaces\obj\Debug\net6.0\ref\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\bin\Debug\net6.0\Todo.Interfaces.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\bin\Debug\net6.0\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\bin\Debug\net6.0\Todo.Interfaces.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\refint\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\Todo.Interfaces.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Interfaces\obj\Debug\net6.0\ref\Todo.Interfaces.dll

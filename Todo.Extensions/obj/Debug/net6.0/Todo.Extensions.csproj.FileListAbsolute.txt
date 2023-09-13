@@ -1,0 +1,23 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\bin\Debug\net6.0\Todo.Extensions.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\bin\Debug\net6.0\Todo.Extensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\bin\Debug\net6.0\Todo.Extensions.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\refint\Todo.Extensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Extensions\obj\Debug\net6.0\ref\Todo.Extensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\bin\Debug\net6.0\Todo.Extensions.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\bin\Debug\net6.0\Todo.Extensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\bin\Debug\net6.0\Todo.Extensions.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\refint\Todo.Extensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\Todo.Extensions.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Extensions\obj\Debug\net6.0\ref\Todo.Extensions.dll

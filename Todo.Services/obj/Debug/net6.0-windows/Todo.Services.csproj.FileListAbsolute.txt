@@ -1,0 +1,42 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Services.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Services.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Services.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Controls.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Data.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Interfaces.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Controls.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Data.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Interfaces.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Models.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.csproj.CopyComplete
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\refint\Todo.Services.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Services\obj\Debug\net6.0-windows\ref\Todo.Services.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Services.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Services.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Services.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Controls.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Data.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Interfaces.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\bin\Debug\net6.0-windows\Todo.Models.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.csproj.AssemblyReference.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.csproj.CopyComplete
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\refint\Todo.Services.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\Todo.Services.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Services\obj\Debug\net6.0-windows\ref\Todo.Services.dll

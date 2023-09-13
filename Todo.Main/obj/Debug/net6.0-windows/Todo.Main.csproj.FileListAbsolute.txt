@@ -1,0 +1,222 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.exe
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.runtimeconfig.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Castle.Core.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Controls.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Data.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Extensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Interfaces.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Services.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.ViewModels.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Views.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Controls.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Data.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Interfaces.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Services.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.ViewModels.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Views.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Extensions.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Models.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\App.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\App.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main_MarkupCompile.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.g.resources
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.csproj.CopyComplete
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\refint\Todo.Main.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.genruntimeconfig.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Main\obj\Debug\net6.0-windows\ref\Todo.Main.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.exe
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.runtimeconfig.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Main.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Extensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Services.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.ViewModels.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Views.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Controls.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Data.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Interfaces.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Services.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.ViewModels.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Views.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Extensions.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\bin\Debug\net6.0-windows\Todo.Models.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.csproj.AssemblyReference.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\App.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main_MarkupCompile.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.g.resources
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.csproj.CopyComplete
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\refint\Todo.Main.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\Todo.Main.genruntimeconfig.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Main\obj\Debug\net6.0-windows\ref\Todo.Main.dll

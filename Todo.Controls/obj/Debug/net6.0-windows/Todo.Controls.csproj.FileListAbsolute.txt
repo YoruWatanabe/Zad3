@@ -1,0 +1,48 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.runtimeconfig.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Buttons.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ListViews.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\TabControls.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\TextBlocks.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\TextBoxes.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ConfirmationDialog.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls_MarkupCompile.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls_MarkupCompile.lref
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ConfirmationDialog.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.g.resources
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\refint\Todo.Controls.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.genruntimeconfig.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ref\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.runtimeconfig.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\bin\Debug\net6.0-windows\Todo.Controls.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.csproj.AssemblyReference.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Buttons.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ListViews.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\TabControls.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\TextBlocks.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\TextBoxes.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ConfirmationDialog.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls_MarkupCompile.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls_MarkupCompile.lref
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ConfirmationDialog.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.g.resources
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\refint\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\Todo.Controls.genruntimeconfig.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Controls\obj\Debug\net6.0-windows\ref\Todo.Controls.dll

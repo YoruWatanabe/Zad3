@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Page Update="AddUserView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddCategoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddTaskView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditUserView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SearchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UsersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditCategoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditTaskView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TasksView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CategoriesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

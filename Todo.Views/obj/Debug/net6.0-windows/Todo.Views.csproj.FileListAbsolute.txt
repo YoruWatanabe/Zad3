@@ -1,0 +1,102 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Views.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Views.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Views.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Controls.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Data.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Extensions.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Interfaces.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.ViewModels.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Controls.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.ViewModels.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Data.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Extensions.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Interfaces.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Models.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddCategoryView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddTaskView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddUserView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\CategoriesView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditCategoryView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditTaskView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditUserView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\SearchView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\SharedResources.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\TasksView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\UsersView.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddCategoryView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddTaskView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddUserView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\CategoriesView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditCategoryView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditTaskView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditUserView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\SearchView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\TasksView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\UsersView.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views_MarkupCompile.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views_MarkupCompile.lref
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\DataTemplates.baml
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.g.resources
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.csproj.CopyComplete
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\refint\Todo.Views.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Views\obj\Debug\net6.0-windows\ref\Todo.Views.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Views.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Views.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Views.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Controls.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Extensions.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Interfaces.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.ViewModels.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Controls.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.ViewModels.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Data.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Extensions.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Interfaces.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\bin\Debug\net6.0-windows\Todo.Models.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.csproj.AssemblyReference.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddCategoryView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddTaskView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddUserView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\CategoriesView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditCategoryView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditTaskView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditUserView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\SearchView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\SharedResources.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\TasksView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\UsersView.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddCategoryView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddTaskView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\AddUserView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\CategoriesView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditCategoryView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditTaskView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\EditUserView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\SearchView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\TasksView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\UsersView.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views_MarkupCompile.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views_MarkupCompile.lref
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\DataTemplates.baml
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.g.resources
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.csproj.CopyComplete
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\refint\Todo.Views.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\Todo.Views.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Views\obj\Debug\net6.0-windows\ref\Todo.Views.dll

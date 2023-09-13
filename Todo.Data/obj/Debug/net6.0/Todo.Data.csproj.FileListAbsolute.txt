@@ -1,0 +1,34 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.runtimeconfig.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Models.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CopyComplete
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\refint\Todo.Data.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.genruntimeconfig.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Data\obj\Debug\net6.0\ref\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.runtimeconfig.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Data.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\bin\Debug\net6.0\Todo.Models.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.AssemblyReference.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.csproj.CopyComplete
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\refint\Todo.Data.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\Todo.Data.genruntimeconfig.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Data\obj\Debug\net6.0\ref\Todo.Data.dll

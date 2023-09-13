@@ -1,0 +1,33 @@
+﻿<Window x:Class="Todo.Main.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Icon="Resources/Icon.ico"
+        Title="Todo List" Height="600" Width="1024" Background="LightGray">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Todo.Controls;component/TabControls.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <BooleanToVisibilityConverter x:Key="BoolToVis" />
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <TabControl TabStripPlacement="Left" SelectedIndex="{Binding SelectedTab}" ItemContainerStyle="{StaticResource TabPrimaryItem}">
+            <TabItem Header="Tasks">
+                <ContentControl Content="{Binding TasksSubView}" />
+            </TabItem>
+            <TabItem Header="Categories">
+                <ContentControl Content="{Binding CategoriesSubView}" />
+            </TabItem>              
+            <TabItem Header="Users">
+                <ContentControl Content="{Binding UsersSubView}" />
+            </TabItem>  
+            <TabItem Header="Search">
+                <ContentControl Content="{Binding SearchSubView}" />
+            </TabItem>            
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\bin\Debug\net6.0\Todo.Models.deps.json
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\bin\Debug\net6.0\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\bin\Debug\net6.0\Todo.Models.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.csproj.AssemblyReference.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.AssemblyInfoInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.AssemblyInfo.cs
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.csproj.CoreCompileInputs.cache
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\refint\Todo.Models.dll
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.pdb
+F:\Downloads\Task3 v2\Todo\src\Todo.Models\obj\Debug\net6.0\ref\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\bin\Debug\net6.0\Todo.Models.deps.json
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\bin\Debug\net6.0\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\bin\Debug\net6.0\Todo.Models.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.AssemblyInfoInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.AssemblyInfo.cs
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\refint\Todo.Models.dll
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\Todo.Models.pdb
+C:\Users\Yoru\Downloads\test\Task3\Todo\src\Todo.Models\obj\Debug\net6.0\ref\Todo.Models.dll

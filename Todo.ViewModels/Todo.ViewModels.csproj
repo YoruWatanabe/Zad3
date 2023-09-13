@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0-preview2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Todo.Data\Todo.Data.csproj" />
+    <ProjectReference Include="..\Todo.Extensions\Todo.Extensions.csproj" />
+    <ProjectReference Include="..\Todo.Interfaces\Todo.Interfaces.csproj" />
+    <ProjectReference Include="..\Todo.Models\Todo.Models.csproj" />
+  </ItemGroup>
+
+</Project>
